@@ -1,0 +1,6 @@
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.0\AardaLibrary.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.0\AardaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.0\AardaLibrary.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.0\AardaLibrary.AssemblyInfo.cs
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.0\AardaLibrary.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.0\AardaLibrary.sourcelink.json

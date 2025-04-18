@@ -1,0 +1,15 @@
+C:\Mac\Home\Documents\GitHub\AardaLibrary\bin\Debug\netstandard2.1\AardaLibrary.deps.json
+C:\Mac\Home\Documents\GitHub\AardaLibrary\bin\Debug\netstandard2.1\AardaLibrary.dll
+C:\Mac\Home\Documents\GitHub\AardaLibrary\bin\Debug\netstandard2.1\AardaLibrary.pdb
+C:\Mac\Home\Documents\GitHub\AardaLibrary\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Mac\Home\Documents\GitHub\AardaLibrary\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Mac\Home\Documents\GitHub\AardaLibrary\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.AssemblyInfo.cs
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.sourcelink.json
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLib.37830D50.Up2Date
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.dll
+C:\Mac\Home\Documents\GitHub\AardaLibrary\obj\Debug\netstandard2.1\AardaLibrary.pdb
